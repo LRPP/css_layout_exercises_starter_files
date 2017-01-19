@@ -1,0 +1,46 @@
+span {
+    display: inline-block;
+}
+
+.boxes {
+    width: 800px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 0px;
+}
+
+.green {
+    background-color: green;
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+.blue {
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+.gray {
+    background-color: gray;
+    height: 300px;
+    width: 266.66px;
+    border: 1px solid black;
+}
+
+.black {
+    background-color: black;
+    height: 300px;
+    width: 266.66px;
+    border: 1px solid black;
+}
+
+.gold {
+    background-color: darkgoldenrod;
+    height: 300px;
+    width: 266.66px;
+    border: 1px solid black;
+}
